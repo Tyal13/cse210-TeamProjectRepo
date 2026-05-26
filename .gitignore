@@ -12,3 +12,9 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# .NET build output
+bin/
+obj/
+*.user
+
