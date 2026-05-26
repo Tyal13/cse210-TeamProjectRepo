@@ -1,5 +1,8 @@
 using System;
 
+// Author(s): [initials]
+// See Program.cs for full team list and references.
+
 namespace ScriptureMemorizer;
 
 public class Reference

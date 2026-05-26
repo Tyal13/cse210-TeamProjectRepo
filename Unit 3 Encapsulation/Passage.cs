@@ -1,6 +1,9 @@
 using System;
 using System.Collections.Generic;
 
+// Author(s): [initials]
+// See Program.cs for full team list and references.
+
 namespace ScriptureMemorizer;
 
 // Holds the list of Word objects for a scripture's text.

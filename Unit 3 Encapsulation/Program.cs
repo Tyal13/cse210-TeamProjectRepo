@@ -1,9 +1,31 @@
 using System;
 using ScriptureMemorizer;
 
+// =============================================================================
+// CSE 210 - Unit 03 Develop: Scripture Memorizer
+// Team project (coding together with instructor permission).
+//
+// Team Members:
+//   AH  - Adam Herrmann
+//   XX  - [teammate name]
+//   XX  - [teammate name]
+//   XX  - [teammate name]
+//
+// Contributions (who worked on what):
+//   AH  - [e.g. Program.cs main loop, Reference class]
+//   XX  - [e.g. Scripture class, hide logic]
+//   XX  - [e.g. Passage class]
+//   XX  - [e.g. Word class, display formatting]
+//
+// References / things that helped us:
+//   - Initial project scaffolding generated with Claude Code (Anthropic).
+//   - BYU-I CSE 210 W06 assignment page (Scripture Memorizer).
+//   - [add any tutorials, docs, Stack Overflow links, etc. used here]
+//
 // Creativity / exceeding requirements:
-// TODO: describe here what your version does beyond the core requirements
-// (e.g. library of scriptures, loading from file, only hiding non-hidden words, etc.)
+//   TODO: describe here what our version does beyond the core requirements
+//   (e.g. library of scriptures, loading from file, only hiding non-hidden words, etc.)
+// =============================================================================
 
 // Main loop — matches the team's design diagram:
 //   GetScripture() and PromptUser() are the Input functions.
