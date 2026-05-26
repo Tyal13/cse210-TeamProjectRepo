@@ -1,0 +1,14 @@
+# Claude Code / Anthropic tooling
+.claude/
+.claude.json
+.claude.json.backup
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
